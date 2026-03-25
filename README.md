@@ -22,3 +22,6 @@ Group 12 is developing a BattleBot system for ECE 445 SP26. This repository is u
 - Team Contract: [Team_Contract.md](Team_Contract.md)
 - Time Schedule: [Time Schedule.png](Time%20Schedule.png)
 
+## Time Schedule
+![Time Schedule](Time%20Schedule.png)
+
